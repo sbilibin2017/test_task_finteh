@@ -21,7 +21,7 @@ readme = "README.md"
 packages = [{include = "test_task_fintech", from = "src"}]
 
 [tool.poetry.dependencies]
-python = "==3.12"
+python = "==3.10.12"
 django = "==5.0"
 django-rest-framework = "==0.1.0"
 django-rest-swagger = "==2.2.0"
